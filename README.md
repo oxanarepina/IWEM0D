@@ -23,7 +23,7 @@ where:
 - `MTL` is the mean tide level, defined with respect to AHD
 - `HAT` is the highest astronomical tide, defined with respect to AHD.
 
-The model accounts for sea level rise `SLR` by adjusting the mean tide level at each timestep:
+The model accounts for sea-level rise `SLR` by adjusting the mean tide level at each timestep:
 
 `MTL[t+1] = MTL[t] + SLR[t]`
 
