@@ -1,6 +1,6 @@
 # Model overview
 
-IWEM0D (Intertidal Wetland Evolution Model - 0D) simulates how mangrove forests and saltmarsh wetlands respond to sea-level rise. The model framework, as detailed in Rogers et al. (2023), treats surface elevation change over time as a function of:
+IWEM0D (Intertidal Wetland Evolution Model - 0D) simulates how mangrove forests and saltmarsh wetlands respond to sea-level rise. The model framework, as detailed in Rogers et al. (in review), treats surface elevation change over time as a function of:
 
 - Present elevation `E` 
 - Inorganic/mineral matter accumulation rate `MAR`
@@ -65,7 +65,7 @@ For each site and modelled scenario, IWEM0D requires:
 
 - The initial surface elevation `initial_E` (m AHD)
 - The initial mean tide level `initial_MTL` (m AHD)
-- The tidal range (m), assumed in Rogers et al. (2023) to remain constant.
+- The tidal range (m), assumed in Rogers et al. (in review) to remain constant.
 
 ## Forcing variables
 
@@ -74,7 +74,7 @@ For each modelled scenario, IWEM0D requires a timeseries of:
 - Sea level rise increments (m/yr).
 
 
-# Sites and scenarios from Rogers et al. (2023)
+# Sites and scenarios from Rogers et al. (in review)
 
 The parameters, initial conditions, and sea level rise timeseries used for the simulations in Rogers et al. (2023) are included with this code. These simulations were undertaken for four sites in Westernport Bay, Victoria, Australia:
 - French Island
