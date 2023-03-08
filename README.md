@@ -76,7 +76,7 @@ For each modelled scenario, IWEM0D requires a timeseries of:
 
 # Sites and scenarios from Rogers et al. (in review)
 
-The parameters, initial conditions, and sea level rise timeseries used for the simulations in Rogers et al. (2023) are included with this code. These simulations were undertaken for four sites in Westernport Bay, Victoria, Australia:
+The parameters, initial conditions, and sea level rise timeseries used for the simulations in Rogers et al. (in review) are included with this code. These simulations were undertaken for four sites in Westernport Bay, Victoria, Australia:
 - French Island
 - Kooweerup
 - Quail Island
